@@ -18,9 +18,9 @@ The pipeline follows a layered Medallion Architecture:
 ---
 
 ## 🖼️ Pipeline Architecture
-
 ![Pipeline](images/pipeline.png)
 
+## 📊 Sample Data Output
 Example of the final Gold layer (`fact_trips`) after transformations:
 
 ![Data Preview](images/data_preview.png)
